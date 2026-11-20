@@ -1,0 +1,32 @@
+Yimo Tapir桌面宠物 — Third-party notices
+
+桌宠制作：@芝士奶盖猪
+IP 形象：Yimo Tapir
+联系：mitreeing@gmail.com
+
+本发行包使用下列第三方组件。以下许可文本仅针对相应组件，不表示
+本桌宠程序的开发源码在公开仓库中提供。
+
+Python 3.13
+Copyright Python Software Foundation and contributors.
+License text: Python-LICENSE.txt
+https://www.python.org/
+https://docs.python.org/3.13/license.html
+
+Qt 6.12 / Qt for Python (PySide6, Shiboken6)
+Copyright The Qt Company Ltd. and contributors.
+The bundled open-source Qt for Python components are distributed under their
+applicable LGPL/GPL license terms. LGPL-3.0-only.txt and GPL-3.0-only.txt are
+included for the corresponding components; those licenses retain their full
+effect, including rights relating to modification and debugging of them.
+https://code.qt.io/cgit/pyside/pyside-setup.git/tag/?h=v6.12.0
+https://code.qt.io/cgit/qt/qtbase.git/tag/?h=v6.12.0
+https://doc.qt.io/qtforpython-6/licenses.html
+
+PyInstaller 6.22.3 bootloader
+Copyright PyInstaller Development Team and contributors.
+License and bootloader distribution exception: PyInstaller-COPYING.txt
+https://github.com/pyinstaller/pyinstaller
+
+服务商标志由各服务商持有。界面中使用它们仅用于识别用户选择的服务，
+不表示服务商为本桌宠背书或提供内置API额度。
