@@ -8,15 +8,15 @@
 
 **Windows x64 · Apple Silicon Mac · 四套装扮 · 可选 API 文字聊天**
 
-### [下载 Windows 版](https://github.com/mukiiiina/yimo-tapir-downloads/releases/latest/download/Yimo-Desktop-Windows-x64.exe)　｜　[下载 Mac 版](https://github.com/mukiiiina/yimo-tapir-downloads/releases/latest/download/Yimo-Desktop-macOS-arm64.zip)
+### [查看发布页](https://github.com/mukiiiina/yimo-tapir-downloads/releases)
 
-[查看版本说明与全部附件](https://github.com/mukiiiina/yimo-tapir-downloads/releases/latest) · [五分钟上手](#五分钟上手) · [全部玩法](#貘貘的桌面生活) · [开启聊天](#让-yimo-和你聊聊天) · [常见问题](#常见问题) · [联系创作者](#联系创作者)
+[版本小记](CHANGELOG.md) · [五分钟上手](#五分钟上手) · [全部玩法](#貘貘的桌面生活) · [开启聊天](#让-yimo-和你聊聊天) · [常见问题](#常见问题) · [联系创作者](#联系创作者)
 
 <img src="media/launch-poster.png" alt="Yimo Tapir桌面宠物首发海报" width="560">
 
 </div>
 
-这是 **0.1.0 初版体验版**。你可以直接下载运行，不需要安装 Python，也不用配置开发环境。换装、动作、投喂、Tiny、专注和提醒等玩法可以离线使用；接入自己的 API 后，还能和 Yimo 文字聊天。
+**0.1.1** 改进了与 Tiny 分享零食、热可可、听心跳和投喂。公开安装附件准备中，会在两平台核对完成后上线。换装、动作、投喂、Tiny、专注和提醒等玩法可以离线使用，接入自己的 API 后还能和 Yimo 文字聊天。
 
 这个仓库提供应用下载、使用说明和演示，**不开放程序源码**。作品仍会继续打磨，欢迎把遇到的问题和想要的玩法告诉我。
 
@@ -29,7 +29,7 @@
 
 Mac 版面向 **Apple Silicon／M 系列芯片**，当前没有 Intel Mac 安装包。可在苹果菜单的“关于本机”查看芯片与系统版本。
 
-下载请进入上方 **Releases 发布页**，展开 **Assets／附件**，选择与你电脑对应的文件。仓库页面里的 **Code → Download ZIP** 是文档压缩包，不是桌宠程序。
+安装附件上线后，请在上方 **Releases 发布页** 展开 **Assets／附件**，选择与你电脑对应的文件。仓库页面里的 **Code → Download ZIP** 提供使用说明和演示。
 
 ### Windows 第一次打开
 
@@ -49,7 +49,7 @@ Mac 版面向 **Apple Silicon／M 系列芯片**，当前没有 Intel Mac 安装
 
 遇到“应用已损坏”、反复崩溃或找不到上述选项时，请先重新下载并核对附件，不要全局关闭 Gatekeeper。把系统版本和提示截图发给创作者，方便继续排查。
 
-> Windows 与 Mac 使用同一套玩法。Mac 已提供 Apple 芯片构建与运行检查，实际设备上的多屏、台前调度和不同全屏应用体验仍欢迎反馈。
+> Windows 与 Mac 使用同一套玩法。平台支持和最新安装包状态请查看发布页。Mac 多屏、台前调度和不同全屏应用的实际体验欢迎反馈。
 
 ## 五分钟上手
 
@@ -122,11 +122,13 @@ Mac 的自动打字陪伴默认关闭。主动开启时，可能需要到“系�
 
 ![立耳、接住食物、吃东西与收手](media/feeding.gif)
 
+[观看 0.1.1 的八组投喂演示](media/feeding-0.1.1.mp4)
+
 ### 05 · Tiny 来了，不是只有一只貘貘陪你
 
 点 **互动 → 叫 Tiny 来**，让小鸟飞到旁边。想让它回去时，再点“让 Tiny 回去”。
 
-在“更多动作”试试 **和小鸟分零食**：它们会一起分享，Yimo 也会自己吃一口。白大褂的 **听听小鸟的心跳** 还有听诊与小鸟的回应。
+在“更多动作”试试 **和小鸟分零食**。Tiny 会凑近啄食，Yimo 拿稳零食并回应。白大褂的 **听听小鸟的心跳** 还有听诊与小鸟的回应。
 
 睡觉时，Tiny 也可能飞来照顾貘貘的小被子。有些小剧情需要两位都闲下来，正在打字、拖动或切换动作时，会先把眼前的事做完。
 

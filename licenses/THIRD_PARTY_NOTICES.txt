@@ -23,6 +23,14 @@ https://code.qt.io/cgit/pyside/pyside-setup.git/tag/?h=v6.12.0
 https://code.qt.io/cgit/qt/qtbase.git/tag/?h=v6.12.0
 https://doc.qt.io/qtforpython-6/licenses.html
 
+Qt Multimedia 6.12 and FFmpeg 9.0.1
+Copyright The Qt Company Ltd., the FFmpeg developers, and contributors.
+Qt Multimedia uses the included FFmpeg shared libraries to decode local video.
+See FFmpeg-NOTICES.txt for the FFmpeg licenses and attributions.
+https://code.qt.io/cgit/qt/qtmultimedia.git/tag/?h=v6.12.0
+https://doc.qt.io/qt-6.12/qtmultimedia-attribution-ffmpeg.html
+https://www.ffmpeg.org/releases/ffmpeg-9.0.1.tar.xz
+
 PyInstaller 6.22.3 bootloader
 Copyright PyInstaller Development Team and contributors.
 License and bootloader distribution exception: PyInstaller-COPYING.txt
