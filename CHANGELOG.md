@@ -9,7 +9,7 @@
 - 调整棒棒糖与刨冰的进食位置，原版刨冰使用透明视频播放。
 - 改进桌面拖动和多种闭眼表情。
 
-公开安装附件准备中。[八组投喂演示](media/feeding-0.1.1.mp4) · [查看发布页](https://github.com/mukiiiina/yimo-tapir-downloads/releases)
+0.1.1 发布页已添加 Windows x64 安装包和 SHA-256 校验文件。Mac 包待构建和验证。[八组投喂演示](media/feeding-0.1.1.mp4) · [查看 0.1.1 发布页](https://github.com/mukiiiina/yimo-tapir-downloads/releases/tag/v0.1.1)
 
 ## 0.1.0 · 初版见面啦
 

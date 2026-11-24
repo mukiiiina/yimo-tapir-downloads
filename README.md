@@ -8,7 +8,7 @@
 
 **Windows x64 · Apple Silicon Mac · 四套装扮 · 可选 API 文字聊天**
 
-### [查看发布页](https://github.com/mukiiiina/yimo-tapir-downloads/releases)
+### [查看 0.1.1 发布页](https://github.com/mukiiiina/yimo-tapir-downloads/releases/tag/v0.1.1)
 
 [版本小记](CHANGELOG.md) · [五分钟上手](#五分钟上手) · [全部玩法](#貘貘的桌面生活) · [开启聊天](#让-yimo-和你聊聊天) · [常见问题](#常见问题) · [联系创作者](#联系创作者)
 
@@ -16,7 +16,7 @@
 
 </div>
 
-**0.1.1** 改进了与 Tiny 分享零食、热可可、听心跳和投喂。公开安装附件准备中，会在两平台核对完成后上线。换装、动作、投喂、Tiny、专注和提醒等玩法可以离线使用，接入自己的 API 后还能和 Yimo 文字聊天。
+**0.1.1** 改进了与 Tiny 分享零食、热可可、听心跳和投喂。Windows x64 安装包已添加到 0.1.1 发布页，Mac 包待构建和验证。换装、动作、投喂、Tiny、专注和提醒等玩法可以离线使用，接入自己的 API 后还能和 Yimo 文字聊天。
 
 这个仓库提供应用下载、使用说明和演示，**不开放程序源码**。作品仍会继续打磨，欢迎把遇到的问题和想要的玩法告诉我。
 
@@ -24,12 +24,12 @@
 
 | 你的电脑 | 下载哪个文件 | 怎么打开 |
 | --- | --- | --- |
-| Windows，x64 电脑 | `Yimo-Desktop-Windows-x64.exe` | 下载后双击运行 |
-| Apple 芯片 Mac，macOS 14.4 或更新 | `Yimo-Desktop-macOS-arm64.zip` | 解压，把 `Yimo Desktop.app` 拖进“应用程序”，再打开 |
+| Windows，x64 电脑 | [Yimo-Desktop-Windows-x64.exe](https://github.com/mukiiiina/yimo-tapir-downloads/releases/download/v0.1.1/Yimo-Desktop-Windows-x64.exe) | 下载后双击运行 |
+| Apple 芯片 Mac，macOS 14.4 或更新 | 0.1.1 安装包待发布 | 发布后解压，把 `Yimo Desktop.app` 拖进“应用程序”，再打开 |
 
 Mac 版面向 **Apple Silicon／M 系列芯片**，当前没有 Intel Mac 安装包。可在苹果菜单的“关于本机”查看芯片与系统版本。
 
-安装附件上线后，请在上方 **Releases 发布页** 展开 **Assets／附件**，选择与你电脑对应的文件。仓库页面里的 **Code → Download ZIP** 提供使用说明和演示。
+在发布页的 **Assets／附件** 中可以查看 Windows 安装包和 `SHA256SUMS.txt` 校验文件。仓库页面里的 **Code → Download ZIP** 提供使用说明和演示。
 
 ### Windows 第一次打开
 
