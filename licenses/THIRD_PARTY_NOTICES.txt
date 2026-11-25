@@ -29,7 +29,7 @@ Qt Multimedia uses the included FFmpeg shared libraries to decode local video.
 See FFmpeg-NOTICES.txt for the FFmpeg licenses and attributions.
 https://code.qt.io/cgit/qt/qtmultimedia.git/tag/?h=v6.12.0
 https://doc.qt.io/qt-6.12/qtmultimedia-attribution-ffmpeg.html
-https://www.ffmpeg.org/releases/ffmpeg-9.0.1.tar.xz
+https://github.com/FFmpeg/FFmpeg/tree/n9.0.1
 
 PyInstaller 6.22.3 bootloader
 Copyright PyInstaller Development Team and contributors.

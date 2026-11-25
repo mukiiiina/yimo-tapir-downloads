@@ -1,6 +1,6 @@
 FFmpeg 9.0.1 attributions distributed with Qt Multimedia 6.12
 https://doc.qt.io/qt-6.12/qtmultimedia-attribution-ffmpeg.html
-https://www.ffmpeg.org/releases/ffmpeg-9.0.1.tar.xz
+https://github.com/FFmpeg/FFmpeg/tree/n9.0.1
 
 Copyright (c) 2000-2023 the FFmpeg developers
 
