@@ -7,7 +7,7 @@
 - 鼠标和键盘闲置满 10 分钟时，Yimo 也会睡。白天恢复使用电脑就能叫醒它。
 - 改进 Tiny 分享、听诊和换装中断时的收尾，以及原版刨冰视频卡住时的动作衔接。四套装扮的动画加载占用更少内存。
 
-Windows 预览包已验证，Mac 包待构建和验证。当前公开下载见 [0.1.1 发布页](https://github.com/mukiiiina/yimo-tapir-downloads/releases/tag/v0.1.1)。
+新版正在复核打包和第三方组件。Windows 与 Mac 的公开附件以 [GitHub Releases](https://github.com/mukiiiina/yimo-tapir-downloads/releases) 为准。
 
 ## 0.1.1 · 和 Tiny 分零食
 
@@ -18,7 +18,7 @@ Windows 预览包已验证，Mac 包待构建和验证。当前公开下载见 [
 - 调整棒棒糖与刨冰的进食位置，原版刨冰使用透明视频播放。
 - 改进桌面拖动和多种闭眼表情。
 
-0.1.1 发布页已添加 Windows x64 安装包和 SHA-256 校验文件。Mac 包待构建和验证。[八组投喂演示](media/feeding-0.1.1.mp4) · [查看 0.1.1 发布页](https://github.com/mukiiiina/yimo-tapir-downloads/releases/tag/v0.1.1)
+原 Windows x64 下载已暂时下架，下一版将使用包含应用和共享库的 ZIP 包。[八组投喂演示](media/feeding-0.1.1.mp4)
 
 ## 0.1.0 · 初版见面啦
 
@@ -32,6 +32,6 @@ Windows 预览包已验证，Mac 包待构建和验证。当前公开下载见 [
 - 可选 API 文字聊天：8家预设服务商及自定义兼容接口，支持完整记录展开。
 - 设置里检查公开新版，保留本机偏好。
 
-Mac版适用于Apple Silicon和macOS14.4+，首次打开请按README完成系统确认；当前没有Intel版。
+Mac 版适用于 Apple Silicon 和 macOS 14.4 或更新版本。请以发布页的实际附件和说明为准。
 
 [完整玩法与安装说明](README.md) · [发布页](https://github.com/mukiiiina/yimo-tapir-downloads/releases)
